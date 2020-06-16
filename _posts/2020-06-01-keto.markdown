@@ -5,7 +5,7 @@ date:   2020-06-01
 categories: me
 ---
 
-I was inspired by the ketosis portion of [this post][keto-post], and also because it's quarantine so I'm not eating out. I started a keto diet on April 20th.
+I was inspired by the ketosis portion of [this post][keto-post], and also because it's quarantine so I'm not eating out. I started a keto diet--eating <20 grams of carbs per day--on April 20th.
 
 ## The Good
 After a few days I began to feel much more energetic, as if I was on a medium-low dose of caffeine every day (50 - 75mg, for comparison I take 200mg most days for work), lasting the whole day. I find it easier to get out of bed. I feel more able to focus during routine or boring things like reading documentation or doing code reviews.
@@ -21,7 +21,7 @@ My sweat has a distinct keto smell, sort of like dry meat. I noticed it within a
 The food options are repetive and boring. 80% of what I eat is meat or cheese. I also often have pork rinds, eggs, spinach, mustard, keto power bars (expensive), and avocados/guacamole. I recently discovered keto dessert recipes with fake sugar--these have been incredible. You can make some delicious 'chocolate mousse' with basically avocado or cream cheese, fake sugar, and cocoa powder.
 
 ## Cheat Meals
-I broke keto yesterday and last Sunday by eating lots of carbs and sugar for dinner. I haven't experienced any strong sugar cravings, but I'm at my parents' house for dinner most Sundays and it's hard to ignore cookies or chocolate cupcakes in my face. Both times, I felt more tired the next day, but my symptoms only lasted the day. [This study][cheat-study] indicates cheating can damage your blood vessels but I haven't seen anything else about this. 
+I broke keto yesterday and last Sunday by eating lots of carbs and sugar for dinner. I haven't experienced any strong sugar cravings, but I go to my parents' house for dinner most Sundays and it's hard to ignore cookies or chocolate cupcakes in my face. Both times, I felt more tired the next day, but my symptoms only lasted the day. [This study][cheat-study] indicates cheating can damage your blood vessels but I haven't seen anything else about this. 
 
 ## Conclusion
 I've been doing keto (with 2 cheat days) for 6 weeks now. I plan to just keep going until I don't feel like it any more. I doubt I will be able to last past the end of quarantine--I don't have the self-control to stick to keto when eating out with friends. I would *strongly* recommend trying this out to anyone who feels chronicly tired.
